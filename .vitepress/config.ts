@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "USACH Documentation",
   description: "The home of the USACH lineups.",
-  base: "/documents-usach/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
